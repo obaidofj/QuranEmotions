@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@google-cloud/language": "^6.1.1",
+    "axios": "^1.6.5",
+    "compromise": "^14.11.0",
+    "natural": "^6.10.4",
+    "node-nlp": "^4.27.0",
+    "sentiment": "^5.0.2"
+  }
+}

@@ -1,0 +1,74 @@
+mohammad.khair@qurancomputing.org 	
+
+obaid@qurancomputing.org	
+
+mohammed.khedher@qurancomputing.org	 
+
+majdi.sawalha@qurancomputing.org	 
+
+mohammed.alkhateeb@qurancomputing.org	
+
+akram.zeki@qurancomputing.org	 
+
+yasser.tarshany@qurancomputing.org	
+
+info@qurancomputing.org	
+
+president@qurancomputing.org	
+
+akram@qurancomputing.org	
+
+noreply@qurancomputing.org	 
+
+mohammed-meftah@qurancomputing.org	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Configure via IMAP
+Email address:Your full email address
+(e.g. info@qurancomputing.org)
+Password:Your business mail password
+Incoming server:
+
+imap.titan.email
+
+Encryption: SSL/TLS (Port: 993)
+
+
+Outgoing server:
+
+smtp.titan.email
+
+Encryption: STARTTLS (Port: 587)
+
+
+Encryption: SSL/TLS (Port: 465)
+Configure via POP
+Email address:Your full email address
+(e.g. info@qurancomputing.org)
+
+For IMAP
+imap.dreamhost.com
+For POP3
+pop.dreamhost.com
+IMAP Port
+993
+POP3 Port
+995
+Outgoing Settings
+smtp.dreamhost.com
+SMTP Port
+465
+
+
