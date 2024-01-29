@@ -1,0 +1,22 @@
+table_comments = {
+    "employees": {
+        "en": "This table stores information about the employees in the company.", 
+        "ar": "هذا الجدول يخزن معلومات عن موظفي الشركة."
+    },
+    "departments": { 
+        "en": "This table contains details about the different departments.",
+        "ar": "يحتوي هذا الجدول على تفاصيل حول الإدارات المختلفة."
+    }
+}
+
+column_comments = {
+    "employees.employee_id": {
+        "en": "Unique identifier for each employee.",
+        "ar": "معرف فريد لكل موظف."
+    },
+    "employees.salary": {
+        "en": "The salary of the employee.",
+        "ar": "راتب الموظف."
+    } 
+}
+

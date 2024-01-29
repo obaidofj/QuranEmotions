@@ -1,0 +1,12 @@
+Sequence Number In Aya;Order number of occurrence of word in the verse (Aya);ÊÑÊíÈ ÊÓáÓá ÇáßáãÉ İí ÇáÂíÉ
+Current Word Number;The order number of the current word from the start of the verse (Aya);ÊÑÊíÈ ÇáßáãÉ ÇáÍÇáíÉ ãä ÈÏÇíÉ ÇáÂíÉ
+Previous Word Number;The order number of the previous word from the start of the verse (Aya);ÊÑÊíÈ ÇáßáãÉ ÇáÓÇÈŞÉ ãä ÈÏÇíÉ ÇáÂíÉ
+Aya Number;Current Verse (Aya) order from the beginning of the Quran;ÊÑÊíÈ ÇáÂíÉ ÇáÍÇáíÉ ãä ÈÏÇíÉ ÇáŞÑÂä
+Previous Aya Number;Previous Verse (Aya) order from the beginning of the Quran;ÊÑÊíÈ ÇáÂíÉ ÇáÓÇÈŞÉ ãä ÈÏÇíÉ ÇáŞÑÂä
+Current Root;Current Word Root Text;äÕ ÌĞÑ ÇáßáãÉ ÇáÍÇáíÉ
+Current Word;Current Word Text;äÕ ÇáßáãÉ ÇáÍÇáíÉ
+Previous Word;Previous Word Text;äÕ ÇáßáãÉ ÇáÓÇÈŞÉ
+Current Aya;Current Verse (Aya) Text;äÕ ÇáÂíÉ ÇáÍÇáíÉ
+Previous Aya;Previous Verse (Aya) Text;äÕ ÇáÂíÉ ÇáÓÇÈŞÉ
+Current Aya Root;Current Verse (Aya) Word Roots Text;äÕ ÌĞæÑ ßáãÇÊ ÇáßáãÉ ÇáÍÇáíÉ İí ÇáÂíÉ
+Previous Aya Root;Previous Verse (Aya) Word Roots Text;äÕ ÌĞæÑ ßáãÇÊ ÇáßáãÉ ÇáÓÇÈŞÉ İí ÇáÂíÉ

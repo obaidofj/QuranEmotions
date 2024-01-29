@@ -1,0 +1,61 @@
+;;
+ ; 2; 3
+ÑŞã_ÇáßáãÉ;ÑŞã ÇáßáãÉ ãä ÈÏÇíÉ ÇáŞÑÂä;Word number from the start of the Quran
+ÇáßáãÉ_ÈÇáÊÔßíá;ÇáßáãÉ ÈÇáÊÔßíá ãä ÈÏÇíÉ ÇáŞÑÂä;Word with Tashkeel
+ÇáßáãÉ;ãä ÈÏÇíÉ ÇáŞÑÂä;Word without Tashkeel
+ÌĞÑ_ÇáßáãÉ;ÌĞÑ ÇáßáãÉ ãä ÈÏÇíÉ ÇáŞÑÂä;Word Root
+ãßíÉ_Ãæ_ãÏäíÉ;ãßíÉ Ãæ ãÏäíÉ ãä ÈÏÇíÉ ÇáŞÑÂä;Sura Type Mekki or Madani
+ÑŞã_ÇáÕİÍÉ_ãä_ÇáŞÑÂä;ÑŞã ÇáÕİÍÉ ãä ÇáŞÑÂä ãä ÈÏÇíÉ ÇáŞÑÂä;Quran Page Number
+ÑŞã_ÇáÓæÑÉ;ÑŞã ÇáÓæÑÉ;Sura Number
+ÑŞã_ÇáßáãÉ_ãä_ÈÏÇíÉ_ÇáÂíÉ;ÑŞã ÇáßáãÉ ãä ÈÏÇíÉ ÇáÂíÉ;Word Number from the Beginning of the Verse (Aya)
+ÑŞã_ÇáßáãÉ_ãä_äåÇíÉ_ÇáÂíÉ;ÑŞã ÇáßáãÉ ãä äåÇíÉ ÇáÂíÉ ;Word Number from the End of the Verse (Aya)
+ÑŞã_ÇáßáãÉ_ãä_ÈÏÇíÉ_ÇáÓæÑÉ;ÑŞã ÇáßáãÉ ãä ÈÏÇíÉ ÇáÓæÑÉ;Word Number from the Beginning of the Surah
+ÑŞã_ÇáßáãÉ_ãä_äåÇíÉ_ÇáÓæÑÉ;ÑŞã ÇáßáãÉ ãä äåÇíÉ ÇáÓæÑÉ;Word Number from the End of the Surah
+ÑŞã_ÇáßáãÉ_ãä_ÈÏÇíÉ_ÇáŞÑÂä;ÑŞã ÇáßáãÉ ãä ÈÏÇíÉ ÇáŞÑÂä;Word Number from the Beginning of the Quran
+ÑŞã_ÇáßáãÉ_ãä_äåÇíÉ_ÇáŞÑÂä;ÑŞã ÇáßáãÉ ãä äåÇíÉ ÇáŞÑÂä;Word Number from the End of the Quran
+ÑŞã_ÇáÂíÉ_ãä_ÈÏÇíÉ_ÇáÓæÑÉ;ÑŞã ÇáÂíÉ ãä ÈÏÇíÉ ÇáÓæÑÉ;Verse Number from the Beginning of the Surah
+ÑŞã_ÇáÂíÉ_ãä_äåÇíÉ_ÇáÓæÑÉ;ÑŞã ÇáÂíÉ ãä äåÇíÉ ÇáÓæÑÉ;Verse Number from the End of the Surah
+ÑŞã_ÇáÂíÉ_ãä_ÈÏÇíÉ_ÇáŞÑÂä;ÑŞã ÇáÂíÉ ãä ÈÏÇíÉ ÇáŞÑÂä;Verse Number from the Beginning of the Quran
+ÑŞã_ÇáÂíÉ_ãä_äåÇíÉ_ÇáŞÑÂä;ÑŞã ÇáÂíÉ ãä äåÇíÉ ÇáŞÑÂä;Verse Number from the End of the Quran
+ÚÏÏ_ÃÍÑİ_ÇáßáãÉ_ÇáÃæá;ÚÏÏ ÃÍÑİ ÇáßáãÉ ÈÇáÑÓã ÇáÃæá ÇáÃÕáí ÈÏæä ÇáåãÒÉ;Number of Letters in the Word in the Original Script without Hamza
+ÚÏÏ_ÃÍÑİ_ÇáÂíÉ_ÇáÃæá;ÚÏÏ ÃÍÑİ ÇáÂíÉ ÈÇáÑÓã ÇáÃæá ÇáÃÕáí ÈÏæä ÇáåãÒÉ;Number of Letters in the Verse in the Original Script without Hamza
+ÚÏÏ_ÃÍÑİ_ÇáÓæÑÉ_ÇáÃæá;ÚÏÏ ÃÍÑİ ÇáÓæÑÉ  ÈÇáÑÓã ÇáÃæá ÇáÃÕáí ÈÏæä ÇáåãÒÉ;Number of Letters in the Surah in the Original Script without Hamza
+ÚÏÏ_ÃÍÑİ_ÇáŞÑÂä_ÇáÃæá;ÚÏÏ ÃÍÑİ ÇáŞÑÂä  ÈÇáÑÓã ÇáÃæá ÇáÃÕáí ÈÏæä ÇáåãÒÉ;Number of Letters in the Quran in the Original Script without Hamza
+ÚÏÏ_ÃÍÑİ_ÇáßáãÉ;ÚÏÏ ÃÍÑİ ÇáßáãÉ ÈÇáÑÓã ÇáãÚÇÕÑ ÇáÍÏíË ãÚ ÇáåãÒÉ;Number of Letters in the Word in the Modern Script with Hamza
+ÚÏÏ_ÃÍÑİ_ÇáÂíÉ;ÚÏÏ ÃÍÑİ ÇáÂíÉ  ÈÇáÑÓã ÇáãÚÇÕÑ ÇáÍÏíË ãÚ ÇáåãÒÉ;Number of Letters in the Verse in the Modern Script with Hamza
+ÚÏÏ_ÃÍÑİ_ÇáÓæÑÉ;ÚÏÏ ÃÍÑİ ÇáÓæÑÉ  ÈÇáÑÓã ÇáãÚÇÕÑ ÇáÍÏíË ãÚ ÇáåãÒÉ;Number of Letters in the Surah in the Modern Script with Hamza
+ÚÏÏ_ÃÍÑİ_ÇáŞÑÂä;ÚÏÏ ÃÍÑİ ÇáŞÑÂä  ÈÇáÑÓã ÇáãÚÇÕÑ ÇáÍÏíË ãÚ ÇáåãÒÉ;Number of Letters in the Quran in the Modern Script with Hamza
+ÑŞã_ÇáÍÑİ_ãä_ÈÏÇíÉ_ÇáÂíÉ;ÑŞã ÇáÍÑİ ãä ÈÏÇíÉ ÇáÂíÉ  ÈÇáÑÓã ÇáãÚÇÕÑ ÇáÍÏíË ãÚ ÇáåãÒÉ;Character Number from the Beginning of the Verse in the Modern Script with Hamza
+ÑŞã_ÇáÍÑİ_ãä_äåÇíÉ_ÇáÂíÉ;ÑŞã ÇáÍÑİ ãä äåÇíÉ ÇáÂíÉ  ÈÇáÑÓã ÇáãÚÇÕÑ ÇáÍÏíË ãÚ ÇáåãÒÉ;Character Number from the End of the Verse in the Modern Script with Hamza
+ÑŞã_ÇáÍÑİ_ãä_ÈÏÇíÉ_ÇáÓæÑÉ;ÑŞã ÇáÍÑİ ãä ÈÏÇíÉ ÇáÓæÑÉ  ÈÇáÑÓã ÇáãÚÇÕÑ ÇáÍÏíË ãÚ ÇáåãÒÉ;Character Number from the Beginning of the Surah in the Modern Script with Hamza
+ÑŞã_ÇáÍÑİ_ãä_äåÇíÉ_ÇáÓæÑÉ;ÑŞã ÇáÍÑİ ãä äåÇíÉ ÇáÓæÑÉ  ÈÇáÑÓã ÇáãÚÇÕÑ ÇáÍÏíË ãÚ ÇáåãÒÉ;Character Number from the End of the Surah in the Modern Script with Hamza
+ÑŞã_ÇáÍÑİ_ãä_ÈÏÇíÉ_ÇáŞÑÂä;ÑŞã ÇáÍÑİ ãä ÈÏÇíÉ ÇáŞÑÂä  ÈÇáÑÓã ÇáãÚÇÕÑ ÇáÍÏíË ãÚ ÇáåãÒÉ;Character Number from the Beginning of the Quran in the Modern Script with Hamza
+ÑŞã_ÇáÍÑİ_ãä_äåÇíÉ_ÇáŞÑÂä;ÑŞã ÇáÍÑİ ãä äåÇíÉ ÇáŞÑÂä  ÈÇáÑÓã ÇáãÚÇÕÑ ÇáÍÏíË ãÚ ÇáåãÒÉ;Character Number from the End of the Quran in the Modern Script with Hamza
+ÑŞã_ÇáÍÑİ_ãä_ÈÏÇíÉ_ÇáÂíÉ_ÇáÃæá;ÑŞã ÇáÍÑİ ãä ÈÏÇíÉ ÇáÂíÉ ÈÇáÑÓã ÇáÃæá ÇáÃÕáí ÈÏæä ÇáåãÒÉ;Character Number from the Beginning of the Verse in the Original Script without Hamza
+ÑŞã_ÇáÍÑİ_ãä_äåÇíÉ_ÇáÂíÉ_ÇáÃæá;ÑŞã ÇáÍÑİ ãä äåÇíÉ ÇáÂíÉ ÈÇáÑÓã ÇáÃæá ÇáÃÕáí ÈÏæä ÇáåãÒÉ;Character Number from the End of the Verse in the Original Script without Hamza
+ÑŞã_ÇáÍÑİ_ãä_ÈÏÇíÉ_ÇáÓæÑÉ_ÇáÃæá;ÑŞã ÇáÍÑİ ãä ÈÏÇíÉ ÇáÓæÑÉ ÈÇáÑÓã ÇáÃæá ÇáÃÕáí ÈÏæä ÇáåãÒÉ;Character Number from the Beginning of the Surah in the Original Script without Hamza
+ÑŞã_ÇáÍÑİ_ãä_äåÇíÉ_ÇáÓæÑÉ_ÇáÃæá;ÑŞã ÇáÍÑİ ãä äåÇíÉ ÇáÓæÑÉ ÈÇáÑÓã ÇáÃæá ÇáÃÕáí ÈÏæä ÇáåãÒÉ;Character Number from the End of the Surah in the Original Script without Hamza
+ÑŞã_ÇáÍÑİ_ãä_ÈÏÇíÉ_ÇáŞÑÂä_ÇáÃæá;ÑŞã ÇáÍÑİ ãä ÈÏÇíÉ ÇáŞÑÂä ÈÇáÑÓã ÇáÃæá ÇáÃÕáí ÈÏæä ÇáåãÒÉ;Character Number from the Beginning of the Quran in the Original Script without Hamza
+ÑŞã_ÇáÍÑİ_ãä_äåÇíÉ_ÇáŞÑÂä_ÇáÃæá;ÑŞã ÇáÍÑİ ãä äåÇíÉ ÇáŞÑÂä ÈÇáÑÓã ÇáÃæá ÇáÃÕáí ÈÏæä ÇáåãÒÉ;Character Number from the End of the Quran in the Original Script without Hamza
+ÇáİæÇÊÍ_ÇáäæÑÇäíÉ;ÇáßáãÉ ãä ÇáİæÇÊÍ ÇáäæÑÇäíÉ ;Word Is a Nourany Disconnected Letters
+ãä_áİÙ_ÇáÌáÇáÉ_Çááå;ÇáßáãÉ ãä áİÙ ÇáÌáÇáÉ Çááå ãËá ÊÇááå ááå ÈÇááå ;"Word from the Name of Allah, such as ""By Allah,"" ""For Allah,"" ""With Allah"""
+ÊßÑÇÑ_ÇáßáãÉ_ÈÇáÂíÉ;ÚÏÏ ÊßÑÇÑ ÇáßáãÉ ÈÇáÂíÉ;Number of Word Occurences in the Verse (Aya)
+ÊßÑÇÑ_ÇáßáãÉ_ÈÇáÓæÑÉ;ÚÏÏ ÊßÑÇÑ ÇáßáãÉ ÈÇáÓæÑÉ ;Number of Word Occurences in the Surah
+ÊßÑÇÑ_ÇáßáãÉ_ÈÇáŞÑÂä;ÚÏÏ ÊßÑÇÑ ÇáßáãÉ ÈÇáŞÑÂä ;Number of Word Occurences in the Quran
+ÊßÑÇÑ_ÇáÂíÉ_ÈÇáÓæÑÉ;ÚÏÏ ÊßÑÇÑ ÇáÂíÉ ÈÇáÓæÑÉ ;Number of Verse Occurences in the Surah
+ÊßÑÇÑ_ÇáÂíÉ_ÈÇáŞÑÂä;ÚÏÏ ÊßÑÇÑ ÇáÂíÉ ÈÇáŞÑÂä;Number of Verse Occurences in the Quran
+ÊßÑÇÑ_ÌĞÑ_ÇáßáãÉ_ÈÇáÂíÉ;ÚÏÏ ÊßÑÇÑ ÌĞÑ ÇáßáãÉ ÈÇáÂíÉ ;Number of Word Root Occurences in the Verse  (Aya)
+ÊßÑÇÑ_ÌĞÑ_ÇáßáãÉ_ÈÇáÓæÑÉ;ÚÏÏ ÊßÑÇÑ ÌĞÑ ÇáßáãÉ ÈÇáÓæÑÉ;Number of Word Root Occurences in the Surah
+ÊßÑÇÑ_ÌĞÑ_ÇáßáãÉ_ÈÇáŞÑÂä;ÚÏÏ ÊßÑÇÑ ÌĞÑ ÇáßáãÉ ÈÇáŞÑÂä;Number of Word Root Occurences in the Quran
+ÊßÑÇÑ_ÌĞæÑ_ÇáÂíÉ_ÈÇáÓæÑÉ;ÚÏÏ ÊßÑÇÑ ÌĞæÑ ÇáÂíÉ ÈÇáÓæÑÉ;Number of Verse Root Occurences in the Surah
+ÊßÑÇÑ_ÌĞæÑ_ÇáÂíÉ_ÈÇáŞÑÂä;ÚÏÏ ÊßÑÇÑ ÌĞæÑ ÇáÂíÉ ÈÇáŞÑÂä;Number of Verse Root Occurences in the Quran
+ÊßÑÇÑ_ÅÓã_Çááå;ÚÏÏ ÊßÑÇÑ ÅÓã Çááå;Number of Occurences of the Name of Allah
+ÊßÑÇÑ_ÌĞÑ_ÅÓã_Çááå;ÚÏÏ ÊßÑÇÑ ÌĞÑ ÅÓã Çááå ;Number of Repetitions of the Root of the Name of Allah
+ÅÓã_Çááå;ÅÓã Çááå;Name of Allah
+ÌĞÑ_ÅÓã_Çááå;ÌĞÑ ÅÓã Çááå ;Root of the Name of Allah
+äæÚ_ÅÓã_Çááå;äæÚ ÅÓã Çááå;Type of the Name of Allah
+ÊßÑÇÑ_ÕİÉ_Çááå;ÊßÑÇÑ ÕİÉ Çááå;Repetition of the Attribute of Allah
+ÊßÑÇÑ_ÕİÉ_ÅÓã_Çááå;ÊßÑÇÑ ÕİÉ ÅÓã Çááå;Repetition of the Attribute of the Name of Allah
+ÕİÉ_Çááå;ÕİÉ Çááå ;Attribute of Allah
+ÌĞÑ_ÕİÉ_Çááå;ÌĞÑ ÕİÉ Çááå;Root of the Attribute of Allah
+äæÚ_ÕİÉ_Çááå;äæÚ ÕİÉ Çááå;Type of the Attribute of Allah
